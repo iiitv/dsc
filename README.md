@@ -1,6 +1,6 @@
 <h1 align="center">dsc-website</h1>
 
-Website for DSC IIIT Vadodara Chapter
+<h4 align="center">Website for DSC IIIT Vadodara Chapter</h4>
 
 <p align='center'>
 <a href="https://travis-ci.com/iiitv/dsc"><img src="https://img.shields.io/travis/com/iiitv/dsc.svg?style=for-the-badge"></a>
